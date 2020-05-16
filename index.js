@@ -33,8 +33,7 @@ function iLoveTheBeatles(num) {
   var array = [];
   var num = 1;
 
-
-  do{
+  do {
     array.push("I love the Beatles!");
     num++
     return array
