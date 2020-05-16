@@ -32,11 +32,12 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(num) {
   var array = [];
   var num = 1;
-  r
+  
 
   do{
     array.push("I love the Beatles!");
     num++
+    return array
   }
   while (num < 15)
 
